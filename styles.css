@@ -94,16 +94,16 @@ body{
 }
 @keyframes slide{
     0%,100%{
-        background-image: url(ss1.jpg);    
+        background-image: url(assets/ss1.jpg);    
     }
     25%{
-        background-image: url(ss2.jpg);
+        background-image: url(assets/ss2.jpg);
     }
     50%{
-        background-image: url(ss3.jpg);
+        background-image: url(assets/ss3.jpg);
     }
     75%{
-        background-image: url(ss4.jpg);
+        background-image: url(assets/ss4.jpg);
     }
 }
 .applynow{ 
@@ -246,7 +246,7 @@ input[type=text], input[type=email],input[type=tel]{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-image:url(ss5.jpg);
+    background-image:url(assets/ss5.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     margin-bottom: 50px;
